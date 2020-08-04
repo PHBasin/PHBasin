@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hello! I'm Pierre-Henri</h3>
 
-<a>
-  <img align="center" src="https://readme.phbasin.vercel.app/api/top-langs/?username=PHBasin&title_color=000000">
-</a>
+<img src="https://readme.phbasin.vercel.app/api/top-langs/?username=PHBasin&title_color=000000">
 
 <p align="center"> 📫 How to reach me: </p>
 <p align="center">
