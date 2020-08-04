@@ -6,7 +6,7 @@
 <a>
   <img align="left" src="https://readme.phbasin.vercel.app/api/top-langs/?username=PHBasin&title_color=000000">
 </a>
- 
+<\br>
 <p align="center"> 📫 How to reach me: </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/pierrehenribasin/">Linkedin</a> •
