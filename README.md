@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello! I'm Pierre-Henri</h3>
 
-<div>
+<div style="display: flex;">
    <div width="50%">
     <img src="https://readme.phbasin.vercel.app/api/top-langs/?username=PHBasin&layout=compact&title_color=000000">
   </div>
