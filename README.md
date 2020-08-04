@@ -7,8 +7,10 @@
   <img align="right" src="https://readme.phbasin.vercel.app/api?username=PHBasin&title_color=000000&show_icons=true&icon_color=000000">
 </div>
 
-<p align="center"> 📫 How to reach me: </p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/pierrehenribasin/">Linkedin</a> •
-  <a href="mailto:basinpierrehenri@gmail.com">Email</a>
-</p>
+<div>
+  <p align="center"> 📫 How to reach me: </p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/pierrehenribasin/">Linkedin</a> •
+    <a href="mailto:basinpierrehenri@gmail.com">Email</a>
+  </p>
+</div>
