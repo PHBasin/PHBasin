@@ -1,5 +1,6 @@
 ### Hi, I'm Pierre-Henri 👋
 
+![PHBasin's github stats]
 <--
 Here are some ideas to get you started:
 
