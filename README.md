@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <h6> 📫 How to reach me: </h6>
+  <h4> 📫 How to reach me: </h4>
   <p>
     <a href="https://www.linkedin.com/in/pierrehenribasin/">Linkedin</a> •
     <a href="mailto:basinpierrehenri@gmail.com">Email</a>
