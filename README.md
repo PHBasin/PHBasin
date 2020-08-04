@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hello! I'm Pierre-Henri</h3>
 
-<div>
-  <img align="left" src="https://readme.phbasin.vercel.app/api/top-langs/?username=PHBasin&layout=compact&title_color=000000">
+<div width="50%">
+  <img src="https://readme.phbasin.vercel.app/api/top-langs/?username=PHBasin&layout=compact&title_color=000000">
 </div>
-<div>
-  <img align="right" src="https://readme.phbasin.vercel.app/api?username=PHBasin&title_color=000000&show_icons=true&icon_color=000000">
+<div width="50%">
+  <img src="https://readme.phbasin.vercel.app/api?username=PHBasin&title_color=000000&show_icons=true&icon_color=000000">
 </div>
 
 <div>
