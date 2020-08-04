@@ -2,4 +2,10 @@
 
 📫 How to reach me:
 
-![PHBasin's github stats](https://readme.phbasin.vercel.app/api?username=PHBasin&show_icons=true) ![Top Langs](https://readme.phbasin.vercel.app/api/top-langs/?username=PHBasin)
+<a>
+  <img align="left" src="https://readme.phbasin.vercel.app/api?username=PHBasin&show_icons=true">
+</a>
+<a>
+  <img align="left" src="https://readme.phbasin.vercel.app/api/top-langs/?username=PHBasin">
+</a>
+ 
