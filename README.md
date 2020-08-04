@@ -5,7 +5,7 @@
     <img src="https://readme.phbasin.vercel.app/api/top-langs/?username=PHBasin&layout=compact&title_color=000000">
   </div>
   
-  <div align="left" width="50%">
+  <div align="left">
     <img src="https://readme.phbasin.vercel.app/api?username=PHBasin&title_color=000000&show_icons=true&icon_color=000000">
   </div>
 </div>
