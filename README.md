@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hello! I'm Pierre-Henri</h3>
 
 
-<div display="grid" grid-template-columns="1fr 1fr" grid-gap="20px">
+<div style="display: grid; grid-template-columns: 1fr 1fr;"
   <div>
-  <img src="https://readme.phbasin.vercel.app/api/top-langs/?username=PHBasin&layout=compact&title_color=000000">
+    <img src="https://readme.phbasin.vercel.app/api/top-langs/?username=PHBasin&layout=compact&title_color=000000">
   </div>
   <div>
-  <img src="https://readme.phbasin.vercel.app/api?username=PHBasin&title_color=000000&show_icons=true&icon_color=000000">
+    <img src="https://readme.phbasin.vercel.app/api?username=PHBasin&title_color=000000&show_icons=true&icon_color=000000">
   </div>
 </div>
 
