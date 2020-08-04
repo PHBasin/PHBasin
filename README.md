@@ -5,9 +5,9 @@
   <img src="https://readme.phbasin.vercel.app/api/top-langs/?username=PHBasin&hide_border=true&layout=compact&title_color=000000">
 </div>
 
-<div>
-  <p align="center"> 📫 How to reach me: </p>
-  <p align="center">
+<div align="center">
+  <h6> 📫 How to reach me: </h6>
+  <p>
     <a href="https://www.linkedin.com/in/pierrehenribasin/">Linkedin</a> •
     <a href="mailto:basinpierrehenri@gmail.com">Email</a>
   </p>
