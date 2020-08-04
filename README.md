@@ -5,7 +5,7 @@
     <img src="https://readme.phbasin.vercel.app/api/top-langs/?username=PHBasin&layout=compact&title_color=000000">
   </div>
   
-  <div>
+  <div class="box-shadow-medium js-hero-listing-container">
     <img src="https://readme.phbasin.vercel.app/api?username=PHBasin&title_color=000000&show_icons=true&icon_color=000000">
   </div>
 </div>
