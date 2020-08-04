@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm Pierre-Henri</h3>
 
 
-<div style="display: grid"
+<div style="display: grid">
   <div>
     <img src="https://readme.phbasin.vercel.app/api/top-langs/?username=PHBasin&layout=compact&title_color=000000">
   </div>
