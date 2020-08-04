@@ -2,7 +2,7 @@
 
 <img src="https://readme.phbasin.vercel.app/api/top-langs/?username=PHBasin&title_color=000000">
 
-<img src"https://readme.phbasin.vercel.app/api?username=PHBasin&title_color=000000&show_icons=true&icon_color=000000"
+<img src"https://readme.phbasin.vercel.app/api?username=PHBasin&title_color=000000&show_icons=true&icon_color=000000">
 
 <p align="center"> 📫 How to reach me: </p>
 <p align="center">
