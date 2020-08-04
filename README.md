@@ -2,4 +2,4 @@
 
 📫 How to reach me:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PHBasin)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=PHBasin)
