@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Pierre-Henri 👋
 
 <--
 Here are some ideas to get you started:
