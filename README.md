@@ -8,7 +8,8 @@
 <div align="center">
   <h2> 📫 How to reach me :</h2>
   <p>
-    <a href="https://www.linkedin.com/in/pierrehenribasin/"><img height="30px" src="https://image.flaticon.com/icons/png/512/16/16066.png"></a> •
-    <a href="mailto:basinpierrehenri@gmail.com"><img src=""></a>
+    <a href="https://www.linkedin.com/in/pierrehenribasin/"><img height="30px" src="https://image.flaticon.com/icons/svg/1051/1051333.svg"></a> • 
+    <a href="mailto:basinpierrehenri@gmail.com"><img src=""><img height="30px" src="https://image.flaticon.com/icons/svg/60/60543.svg"></a> • 
+    <a href="https://www.facebook.com/pierrehenribasin"><img src=""><img height="30px" src="https://image.flaticon.com/icons/svg/1051/1051309.svg"></a>
   </p>
 </div>
