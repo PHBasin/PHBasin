@@ -8,7 +8,7 @@
 <div align="center">
   <h2> 📫 How to reach me :</h2>
   <p>
-    <a href="https://www.linkedin.com/in/pierrehenribasin/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"></a> •
+    <a href="https://www.linkedin.com/in/pierrehenribasin/"><img height="30px" src="https://image.flaticon.com/icons/png/512/16/16066.png"></a> •
     <a href="mailto:basinpierrehenri@gmail.com"><img src=""></a>
   </p>
 </div>
