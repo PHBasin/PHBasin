@@ -9,7 +9,7 @@
   <h2> 📫 How to reach me :</h2>
   <p>
     <a href="https://www.linkedin.com/in/pierrehenribasin/"><img height="30px" src="https://image.flaticon.com/icons/svg/1051/1051333.svg"></a>
-    <span>     </span>
+    <span>&#09</span>
     <a href="mailto:basinpierrehenri@gmail.com"><img height="30px" src="https://image.flaticon.com/icons/svg/60/60543.svg"></a>
     <a href="https://www.facebook.com/pierrehenribasin"><img height="30px" src="https://image.flaticon.com/icons/svg/1051/1051309.svg"></a>
   </p>
