@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pierre-Henri</h1>
-<h3 align="center">A passionate DevOps from France</h3>
 
 <div align="center">
   <img src="https://readme.phbasin.vercel.app/api?username=PHBasin&hide_border=true&hide=stars&title_color=000000&show_icons=true&icon_color=000000">
